@@ -7,6 +7,6 @@ class Rectangle{
         return this.computerArea();
     }
     computeArea(){
-        return this.length * this.height;
+        return this.length * this.height; 
     }
 }
