@@ -6,4 +6,4 @@ let sum = 0;
 for (let n of numbers)
     sum + n;
 
-    console.log(sum);
+    console.log(sum); 
